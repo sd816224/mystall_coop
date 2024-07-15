@@ -1,0 +1,271 @@
+{
+    "id": 27,
+    "title": "Birmingham weekly basketball scrimmage here is the testing text for length ",
+    "price": "7.11",
+    "category": {
+        "id": 1,
+        "name": "EVENT",
+        "slug": "event"
+    },
+    "desc": "Welcome to our booking page for  Basketball sessions. Our popular mini basketball (4-11-year-olds) and skill evelopment sessions (12-17-year-olds) are the first point of contact for players joining the club.  \n As you’ll see below you’ll need to book on to a class first of all – we will require payment in advance and a commitment to the month of sessions to reserve a place. \n Our Saturday sessions are split into two categories; Mini Development Sessions (ages 4-11) which take place from 9:00am – 10:30am & our Skill Development Sessions (ages 12-18) which take place from 10:40am – 12pm.\n  Our Midweek Development Sessions are open to players aged 4-11 years old and will take place from 6:00pm-7:30pm every Monday ening. ",
+    "range": "N/A", 
+    "image_id": null,
+    "image": null,
+    "card_size": "S",
+    "open_preorder_days": 30,
+    "close_preorder_days": 1,
+    "is_supply": true,
+    "stall": {
+        "url": "http://localhost:8000/stallfromvue",
+        "name": "stallfromvue"
+    },
+    "slug": "bball-session-1720707720960",
+    "inventory": [
+        {
+            "id": 1,
+            "date": "2024-07-11",
+            "already_ordered": 8,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 2,
+            "date": "2024-07-12",
+            "already_ordered": 12,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 3,
+            "date": "2024-07-13",
+            "already_ordered": 74,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 4,
+            "date": "2024-07-14",
+            "already_ordered": 76,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 5,
+            "date": "2024-07-15",
+            "already_ordered": 5,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 6,
+            "date": "2024-07-16",
+            "already_ordered": 2,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 7,
+            "date": "2024-07-17",
+            "already_ordered": 1,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 8,
+            "date": "2024-07-18",
+            "already_ordered": 2,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 9,
+            "date": "2024-07-19",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 10,
+            "date": "2024-07-20",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 11,
+            "date": "2024-07-21",
+            "already_ordered": 2,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 12,
+            "date": "2024-07-22",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 13,
+            "date": "2024-07-23",
+            "already_ordered": 6,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 14,
+            "date": "2024-07-24",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 15,
+            "date": "2024-07-25",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 16,
+            "date": "2024-07-26",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 17,
+            "date": "2024-07-27",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 18,
+            "date": "2024-07-28",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 19,
+            "date": "2024-07-29",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 20,
+            "date": "2024-07-30",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 21,
+            "date": "2024-07-31",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 22,
+            "date": "2024-08-01",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 23,
+            "date": "2024-08-02",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 24,
+            "date": "2024-08-03",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 25,
+            "date": "2024-08-04",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 26,
+            "date": "2024-08-05",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 27,
+            "date": "2024-08-06",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 28,
+            "date": "2024-08-07",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 29,
+            "date": "2024-08-08",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 30,
+            "date": "2024-08-09",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 31,
+            "date": "2024-08-10",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 125,
+            "date": "2024-08-11",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 191,
+            "date": "2024-08-12",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 197,
+            "date": "2024-08-13",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        },
+        {
+            "id": 203,
+            "date": "2024-08-14",
+            "already_ordered": 0,
+            "max_supply": 10,
+            "product_slug": "bball-session-1720707720960"
+        }
+    ],
+    "stripe_token": "acct_1PaNzuP6PYS24HqG"
+}
