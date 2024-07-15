@@ -1,0 +1,57 @@
+{
+    "data": {
+        "url": "http://localhost:8000/stallfromvue",
+        "name": "stallfromvue",
+        "bar_name": "stallfromvue",
+        "desc": "",
+        "theme": "R",
+        "font": "A",
+        "phone": null,
+        "wechat": null,
+        "owner": {
+            "id": 9,
+            "email": "ufoczl@yahoo.co.uk"
+        },
+        "products": [
+            "http://localhost:8000/product/bball-session-1720707720960",
+            "http://localhost:8000/product/test-item-for-sale-3333333333-1720707787305"
+        ]
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "content-length": "347",
+        "content-type": "application/json"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": [
+            "xhr",
+            "http",
+            "fetch"
+        ],
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzIxMDc1MTQ2LCJpYXQiOjE3MjEwMzE5NDYsImp0aSI6IjVhODc1MTczZWU0ODQyYzNiZmVkNWUyYzRiOWEwYmRiIiwidXNlcl9pZCI6NH0.xxxxxxxxxxxxxxxxxxx-9GayT7hdzk"
+        },
+        "method": "get",
+        "url": "http://localhost:8000/stallfromvue"
+    },
+    "request": {}
+}
